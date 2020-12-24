@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(240, 239, 239);
+}
+
+h1
+{
+    color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h2{
+    color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.summary-image{
+    width: 200px;
+    float: left;
+}
+
+.MaxTemperature-image{
+    width: 800px;
+    float: middle;
+}
+
+.Humidity-image{
+    width: 800px;
+    float: middle;
+}
+
+.Cloudiness-image{
+    width: 800px;
+    float: middle;
+}
+
+.WindSpeed-image{
+    width: 800px;
+    float: middle;
+}
+
+
+
+.small-image{
+    width: 150px;
+}
+
+.comparison-image{
+    width: 625px;
+}
+
+.navbar-brand{
+    background-color: teal;
+    padding: 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+}
+
+.viz-info{
+   background-color: white;
+    padding: 16px
+    text-align
+}
+
+.navbar-links{
+    float: right;
+}
+
+#content-container {
+    margin-top: 32px;
+}
+
+#data-table-container {
+    margin-top: 32px;
+    background-color:white;
+}
